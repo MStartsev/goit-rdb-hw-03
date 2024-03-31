@@ -1,7 +1,7 @@
 # goit-rdb-hw-03 Завантаження даних та основи SQL. DQL команди
 - Relational Databases: Concepts and Techniques
 
-## Опис домашнього завдання
+## Опис завдання:
 
 1. Напишіть SQL команду, за допомогою якої можна:
 
